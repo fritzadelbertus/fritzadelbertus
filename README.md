@@ -18,11 +18,10 @@ Hello! I'm Fritz Adelbertus Sitindaon. I'm a college freshman with a genuine pas
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,vue,firebase,vscode" />
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fritzadelbertus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fritzadelbertus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fritzadelbertus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritzadelbertus&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
+</p>
 ---
 
 
