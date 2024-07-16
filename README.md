@@ -5,10 +5,10 @@ Hello! I'm Fritz Adelbertus Sitindaon. I'm a college freshman with a genuine pas
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://instagram.com/fritz_adel">
+  <a href="https://instagram.com/fritz_adel" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://linkedin.com/in/fritzadelbertus">
+  <a href="https://linkedin.com/in/fritzadelbertus" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
