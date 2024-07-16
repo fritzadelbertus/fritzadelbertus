@@ -1,7 +1,11 @@
-# 💫 About Me:[![LinkedIn](https://skillicons.dev/icons?i=linkedin)(https://linkedin.com/in/fritzadelbertus)]
+# 💫 About Me:
 Hello! I'm Fritz Adelbertus Sitindaon. I'm a college freshman with a genuine passion in web and software development.
 
 [![](https://visitcount.itsvg.in/api?id=fritzadelbertus&icon=6&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/fritz_adel) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/fritzadelbertus) 
+
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
