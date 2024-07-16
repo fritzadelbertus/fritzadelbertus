@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Fritz Adelbertus Sitindaon. I'm a college freshman with a genuine passion in web and software development.
+Hello! I'm Fritz Adelbertus Sitindaon. I'm a college student with a genuine passion in web and software development.
 
 [![](https://visitcount.itsvg.in/api?id=fritzadelbertus&icon=6&color=0)](https://visitcount.itsvg.in)
 
@@ -13,8 +13,7 @@ Hello! I'm Fritz Adelbertus Sitindaon. I'm a college freshman with a genuine pas
   </a>
 </p>
 
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,vue,firebase,vscode" />
 </p>
@@ -22,7 +21,6 @@ Hello! I'm Fritz Adelbertus Sitindaon. I'm a college freshman with a genuine pas
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritzadelbertus&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
 </p>
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
