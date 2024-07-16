@@ -4,7 +4,7 @@ Hello! I'm Fritz Adelbertus Sitindaon. I'm a college freshman with a genuine pas
 [![](https://visitcount.itsvg.in/api?id=fritzadelbertus&icon=6&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=js,html,css,wasm)](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fritzadelbertus) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/fritzadelbertus)]
 
 # 💻 Tech Stack:
 <p align="center">
