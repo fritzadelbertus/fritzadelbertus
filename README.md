@@ -9,7 +9,7 @@ Hello! I'm Fritz Adelbertus Sitindaon. I'm a college freshman with a genuine pas
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,vue,firebase,vscode" />
   </a>
 </p>
 # 📊 GitHub Stats:
