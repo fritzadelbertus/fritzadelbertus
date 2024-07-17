@@ -15,7 +15,7 @@ Hello! I'm Fritz Adelbertus Sitindaon. I'm a college student with a genuine pass
 
 ## 💻 Tech Stack:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,vue,firebase,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,vue,firebase,octave,vscode" />
 </p>
 
 <p align="center">
