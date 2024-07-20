@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Fritz Adelbertus Sitindaon. I'm a college student with a genuine passion in web and software development.
+Hello! I'm Fritz Adelbertus Sitindaon. I'm a college student with a genuine passion in mathematics, web and software development.
 
 [![](https://visitcount.itsvg.in/api?id=fritzadelbertus&icon=6&color=0)](https://visitcount.itsvg.in)
 
