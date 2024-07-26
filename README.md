@@ -20,6 +20,7 @@ Hello! I'm Fritz Adelbertus Sitindaon. I'm a college student with a genuine pass
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fritzadelbertus&theme=highcontrast&hide_border=true" />
+  <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritzadelbertus&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
